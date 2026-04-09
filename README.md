@@ -8,3 +8,7 @@
 
 ### 📸 실행 화면
 <img width="678" height="809" alt="image" src="https://github.com/user-attachments/assets/9f9e6e59-b895-46fd-914b-31b00ff9da40" />
+
+### 🧪 논리식 검증 테스트 (CLI)
+사용자가 입력한 복잡한 논리식이 정확하게 계산되는지 터미널에서 검증한 결과입니다.
+![alt text](image-2.png)
